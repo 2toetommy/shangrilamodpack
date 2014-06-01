@@ -1,0 +1,4 @@
+shangrilamodpack
+================
+
+Shangrila modpack
